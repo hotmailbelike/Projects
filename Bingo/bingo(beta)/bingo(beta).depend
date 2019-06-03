@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1502382802 source:c:\users\grumpy\documents\study\university\c++\bingo\bingo(beta)\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

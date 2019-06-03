@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1493033630 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\main.cpp
+	"input_2.h"
+	"input_3.h"
+	"input_4.h"
+	"input_5.h"
+	"input_6.h"
+	"input_7.h"
+	"input_8.h"
+	"input_9.h"
+	<iostream>
+
+1492862613 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_2.h
+
+1493031491 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_2.cpp
+	"input_2.h"
+	<iostream>
+
+1492868311 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_3.h
+
+1493029723 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_3.cpp
+	"input_3.h"
+	<iostream>
+
+1492968888 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_4.cpp
+	"input_4.h"
+	<iostream>
+
+1492869378 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_4.h
+
+1492957212 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_5.h
+
+1492967026 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_5.cpp
+	<iostream>
+	"input_5.h"
+
+1492967336 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_6.h
+
+1493028493 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_6.cpp
+	"input_6.h"
+	<iostream>
+
+1493029628 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_7.cpp
+	"input_7.h"
+	<iostream>
+
+1493028604 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_7.h
+
+1493031389 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_8.cpp
+	"input_8.h"
+	<iostream>
+
+1493031427 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_8.h
+
+1493032529 source:c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_9.cpp
+	"input_9.h"
+	<iostream>
+
+1493031674 c:\users\grumpy\documents\study\university\c++\tic tac toe\tic tac toe (beta)\input_9.h
+
